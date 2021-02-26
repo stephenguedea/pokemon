@@ -15,14 +15,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "002",
-      "name": "Ivysaur"
-    }, {
-      "num": "003",
-      "name": "Venusaur"
-    }]
+    ]
   }, {
     "id": 2,
     "num": "002",
@@ -39,15 +32,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "001",
-      "name": "Bulbasaur"
-    }],
-    "next_evolution": [{
-      "num": "003",
-      "name": "Venusaur"
-    }]
+    ]
   }, {
     "id": 3,
     "num": "003",
@@ -58,14 +43,7 @@
       "Poison"
     ],
     "height": "2.01 m",
-    "weight": "100.0 kg",
-    "prev_evolution": [{
-      "num": "001",
-      "name": "Bulbasaur"
-    }, {
-      "num": "002",
-      "name": "Ivysaur"
-    }]
+    "weight": "100.0 kg"
   }, {
     "id": 4,
     "num": "004",
@@ -75,14 +53,7 @@
       "Fire"
     ],
     "height": "0.61 m",
-    "weight": "8.5 kg",
-    "next_evolution": [{
-      "num": "005",
-      "name": "Charmeleon"
-    }, {
-      "num": "006",
-      "name": "Charizard"
-    }]
+    "weight": "8.5 kg"
   }, {
     "id": 5,
     "num": "005",
@@ -97,15 +68,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
-    }],
-    "next_evolution": [{
-      "num": "006",
-      "name": "Charizard"
-    }]
+    ]
   }, {
     "id": 6,
     "num": "006",
@@ -121,14 +84,7 @@
       "Water",
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "004",
-      "name": "Charmander"
-    }, {
-      "num": "005",
-      "name": "Charmeleon"
-    }]
+    ]
   }, {
     "id": 7,
     "num": "007",
@@ -142,14 +98,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "008",
-      "name": "Wartortle"
-    }, {
-      "num": "009",
-      "name": "Blastoise"
-    }]
+    ]
   }, {
     "id": 8,
     "num": "008",
@@ -163,15 +112,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
-    }],
-    "next_evolution": [{
-      "num": "009",
-      "name": "Blastoise"
-    }]
+    ]
   }, {
     "id": 9,
     "num": "009",
@@ -185,14 +126,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "007",
-      "name": "Squirtle"
-    }, {
-      "num": "008",
-      "name": "Wartortle"
-    }]
+    ]
   }, {
     "id": 10,
     "num": "010",
@@ -207,14 +141,7 @@
       "Fire",
       "Flying",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "011",
-      "name": "Metapod"
-    }, {
-      "num": "012",
-      "name": "Butterfree"
-    }]
+    ]
   }, {
     "id": 11,
     "num": "011",
@@ -229,15 +156,7 @@
       "Fire",
       "Flying",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "010",
-      "name": "Caterpie"
-    }],
-    "next_evolution": [{
-      "num": "012",
-      "name": "Butterfree"
-    }]
+    ]
   }, {
     "id": 12,
     "num": "012",
@@ -255,14 +174,7 @@
       "Ice",
       "Flying",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "010",
-      "name": "Caterpie"
-    }, {
-      "num": "011",
-      "name": "Metapod"
-    }]
+    ]
   }, {
     "id": 13,
     "num": "013",
@@ -279,14 +191,7 @@
       "Flying",
       "Psychic",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "014",
-      "name": "Kakuna"
-    }, {
-      "num": "015",
-      "name": "Beedrill"
-    }]
+    ]
   }, {
     "id": 14,
     "num": "014",
@@ -303,15 +208,7 @@
       "Flying",
       "Psychic",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "013",
-      "name": "Weedle"
-    }],
-    "next_evolution": [{
-      "num": "015",
-      "name": "Beedrill"
-    }]
+    ]
   }, {
     "id": 15,
     "num": "015",
@@ -322,14 +219,7 @@
       "Poison"
     ],
     "height": "0.99 m",
-    "weight": "29.5 kg",
-    "prev_evolution": [{
-      "num": "013",
-      "name": "Weedle"
-    }, {
-      "num": "014",
-      "name": "Kakuna"
-    }]
+    "weight": "29.5 kg"
   }, {
     "id": 16,
     "num": "016",
@@ -344,14 +234,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "017",
-      "name": "Pidgeotto"
-    }, {
-      "num": "018",
-      "name": "Pidgeot"
-    }]
+    ]
   }, {
     "id": 17,
     "num": "017",
@@ -366,15 +249,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "016",
-      "name": "Pidgey"
-    }],
-    "next_evolution": [{
-      "num": "018",
-      "name": "Pidgeot"
-    }]
+    ]
   }, {
     "id": 18,
     "num": "018",
@@ -389,14 +264,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "016",
-      "name": "Pidgey"
-    }, {
-      "num": "017",
-      "name": "Pidgeotto"
-    }]
+    ]
   }, {
     "id": 19,
     "num": "019",
@@ -409,11 +277,7 @@
     "weight": "3.5 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "next_evolution": [{
-      "num": "020",
-      "name": "Raticate"
-    }]
+    ]
   }, {
     "id": 20,
     "num": "020",
@@ -426,11 +290,7 @@
     "weight": "18.5 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "prev_evolution": [{
-      "num": "019",
-      "name": "Rattata"
-    }]
+    ]
   }, {
     "id": 21,
     "num": "021",
@@ -445,11 +305,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "022",
-      "name": "Fearow"
-    }]
+    ]
   }, {
     "id": 22,
     "num": "022",
@@ -464,11 +320,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "021",
-      "name": "Spearow"
-    }]
+    ]
   }, {
     "id": 23,
     "num": "023",
@@ -482,11 +334,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "024",
-      "name": "Arbok"
-    }]
+    ]
   }, {
     "id": 24,
     "num": "024",
@@ -500,11 +348,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "023",
-      "name": "Ekans"
-    }]
+    ]
   }, {
     "id": 25,
     "num": "025",
@@ -517,11 +361,7 @@
     "weight": "6.0 kg",
     "weaknesses": [
       "Ground"
-    ],
-    "next_evolution": [{
-      "num": "026",
-      "name": "Raichu"
-    }]
+    ]
   }, {
     "id": 26,
     "num": "026",
@@ -534,11 +374,7 @@
     "weight": "30.0 kg",
     "weaknesses": [
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "025",
-      "name": "Pikachu"
-    }]
+    ]
   }, {
     "id": 27,
     "num": "027",
@@ -553,11 +389,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "next_evolution": [{
-      "num": "028",
-      "name": "Sandslash"
-    }]
+    ]
   }, {
     "id": 28,
     "num": "028",
@@ -572,11 +404,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "prev_evolution": [{
-      "num": "027",
-      "name": "Sandshrew"
-    }]
+    ]
   }, {
     "id": 29,
     "num": "029",
@@ -590,14 +418,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "030",
-      "name": "Nidorina"
-    }, {
-      "num": "031",
-      "name": "Nidoqueen"
-    }]
+    ]
   }, {
     "id": 30,
     "num": "030",
@@ -611,15 +432,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "029",
-      "name": "Nidoran(Female)"
-    }],
-    "next_evolution": [{
-      "num": "031",
-      "name": "Nidoqueen"
-    }]
+    ]
   }, {
     "id": 31,
     "num": "031",
@@ -636,14 +449,7 @@
       "Ice",
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "029",
-      "name": "Nidoran(Female)"
-    }, {
-      "num": "030",
-      "name": "Nidorina"
-    }]
+    ]
   }, {
     "id": 32,
     "num": "032",
@@ -657,14 +463,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "033",
-      "name": "Nidorino"
-    }, {
-      "num": "034",
-      "name": "Nidoking"
-    }]
+    ]
   }, {
     "id": 33,
     "num": "033",
@@ -678,15 +477,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "032",
-      "name": "Nidoran(Male)"
-    }],
-    "next_evolution": [{
-      "num": "034",
-      "name": "Nidoking"
-    }]
+    ]
   }, {
     "id": 34,
     "num": "034",
@@ -703,14 +494,7 @@
       "Ice",
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "032",
-      "name": "Nidoran(Male)"
-    }, {
-      "num": "033",
-      "name": "Nidorino"
-    }]
+    ]
   }, {
     "id": 35,
     "num": "035",
@@ -723,11 +507,7 @@
     "weight": "7.5 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "next_evolution": [{
-      "num": "036",
-      "name": "Clefable"
-    }]
+    ]
   }, {
     "id": 36,
     "num": "036",
@@ -740,11 +520,7 @@
     "weight": "40.0 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "prev_evolution": [{
-      "num": "035",
-      "name": "Clefairy"
-    }]
+    ]
   }, {
     "id": 37,
     "num": "037",
@@ -759,11 +535,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "038",
-      "name": "Ninetales"
-    }]
+    ]
   }, {
     "id": 38,
     "num": "038",
@@ -778,11 +550,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "037",
-      "name": "Vulpix"
-    }]
+    ]
   }, {
     "id": 39,
     "num": "039",
@@ -795,11 +563,7 @@
     "weight": "5.5 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "next_evolution": [{
-      "num": "040",
-      "name": "Wigglytuff"
-    }]
+    ]
   }, {
     "id": 40,
     "num": "040",
@@ -812,11 +576,7 @@
     "weight": "12.0 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "prev_evolution": [{
-      "num": "039",
-      "name": "Jigglypuff"
-    }]
+    ]
   }, {
     "id": 41,
     "num": "041",
@@ -833,11 +593,7 @@
       "Ice",
       "Psychic",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "042",
-      "name": "Golbat"
-    }]
+    ]
   }, {
     "id": 42,
     "num": "042",
@@ -854,11 +610,7 @@
       "Ice",
       "Psychic",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "041",
-      "name": "Zubat"
-    }]
+    ]
   }, {
     "id": 43,
     "num": "043",
@@ -875,14 +627,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "044",
-      "name": "Gloom"
-    }, {
-      "num": "045",
-      "name": "Vileplume"
-    }]
+    ]
   }, {
     "id": 44,
     "num": "044",
@@ -899,15 +644,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "043",
-      "name": "Oddish"
-    }],
-    "next_evolution": [{
-      "num": "045",
-      "name": "Vileplume"
-    }]
+    ]
   }, {
     "id": 45,
     "num": "045",
@@ -924,14 +661,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "043",
-      "name": "Oddish"
-    }, {
-      "num": "044",
-      "name": "Gloom"
-    }]
+    ]
   }, {
     "id": 46,
     "num": "046",
@@ -950,11 +680,7 @@
       "Flying",
       "Bug",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "047",
-      "name": "Parasect"
-    }]
+    ]
   }, {
     "id": 47,
     "num": "047",
@@ -973,11 +699,7 @@
       "Flying",
       "Bug",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "046",
-      "name": "Paras"
-    }]
+    ]
   }, {
     "id": 48,
     "num": "048",
@@ -994,11 +716,7 @@
       "Flying",
       "Psychic",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "049",
-      "name": "Venomoth"
-    }]
+    ]
   }, {
     "id": 49,
     "num": "049",
@@ -1015,11 +733,7 @@
       "Flying",
       "Psychic",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "048",
-      "name": "Venonat"
-    }]
+    ]
   }, {
     "id": 50,
     "num": "050",
@@ -1034,11 +748,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "next_evolution": [{
-      "num": "051",
-      "name": "Dugtrio"
-    }]
+    ]
   }, {
     "id": 51,
     "num": "051",
@@ -1053,11 +763,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "prev_evolution": [{
-      "num": "050",
-      "name": "Diglett"
-    }]
+    ]
   }, {
     "id": 52,
     "num": "052",
@@ -1070,11 +776,7 @@
     "weight": "4.2 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "next_evolution": [{
-      "num": "053",
-      "name": "Persian"
-    }]
+    ]
   }, {
     "id": 53,
     "num": "053",
@@ -1087,11 +789,7 @@
     "weight": "32.0 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "prev_evolution": [{
-      "num": "052",
-      "name": "Meowth"
-    }]
+    ]
   }, {
     "id": 54,
     "num": "054",
@@ -1105,11 +803,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "055",
-      "name": "Golduck"
-    }]
+    ]
   }, {
     "id": 55,
     "num": "055",
@@ -1123,11 +817,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "054",
-      "name": "Psyduck"
-    }]
+    ]
   }, {
     "id": 56,
     "num": "056",
@@ -1142,11 +832,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "next_evolution": [{
-      "num": "057",
-      "name": "Primeape"
-    }]
+    ]
   }, {
     "id": 57,
     "num": "057",
@@ -1161,11 +847,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "056",
-      "name": "Mankey"
-    }]
+    ]
   }, {
     "id": 58,
     "num": "058",
@@ -1180,11 +862,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "059",
-      "name": "Arcanine"
-    }]
+    ]
   }, {
     "id": 59,
     "num": "059",
@@ -1199,11 +877,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "058",
-      "name": "Growlithe"
-    }]
+    ]
   }, {
     "id": 60,
     "num": "060",
@@ -1217,14 +891,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "061",
-      "name": "Poliwhirl"
-    }, {
-      "num": "062",
-      "name": "Poliwrath"
-    }]
+    ]
   }, {
     "id": 61,
     "num": "061",
@@ -1238,15 +905,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "060",
-      "name": "Poliwag"
-    }],
-    "next_evolution": [{
-      "num": "062",
-      "name": "Poliwrath"
-    }]
+    ]
   }, {
     "id": 62,
     "num": "062",
@@ -1264,14 +923,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "060",
-      "name": "Poliwag"
-    }, {
-      "num": "061",
-      "name": "Poliwhirl"
-    }]
+    ]
   }, {
     "id": 63,
     "num": "063",
@@ -1286,14 +938,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "next_evolution": [{
-      "num": "064",
-      "name": "Kadabra"
-    }, {
-      "num": "065",
-      "name": "Alakazam"
-    }]
+    ]
   }, {
     "id": 64,
     "num": "064",
@@ -1308,15 +953,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "063",
-      "name": "Abra"
-    }],
-    "next_evolution": [{
-      "num": "065",
-      "name": "Alakazam"
-    }]
+    ]
   }, {
     "id": 65,
     "num": "065",
@@ -1331,14 +968,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "063",
-      "name": "Abra"
-    }, {
-      "num": "064",
-      "name": "Kadabra"
-    }]
+    ]
   }, {
     "id": 66,
     "num": "066",
@@ -1353,14 +983,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "next_evolution": [{
-      "num": "067",
-      "name": "Machoke"
-    }, {
-      "num": "068",
-      "name": "Machamp"
-    }]
+    ]
   }, {
     "id": 67,
     "num": "067",
@@ -1375,15 +998,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "066",
-      "name": "Machop"
-    }],
-    "next_evolution": [{
-      "num": "068",
-      "name": "Machamp"
-    }]
+    ]
   }, {
     "id": 68,
     "num": "068",
@@ -1398,14 +1013,7 @@
       "Flying",
       "Psychic",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "066",
-      "name": "Machop"
-    }, {
-      "num": "067",
-      "name": "Machoke"
-    }]
+    ]
   }, {
     "id": 69,
     "num": "069",
@@ -1422,14 +1030,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "070",
-      "name": "Weepinbell"
-    }, {
-      "num": "071",
-      "name": "Victreebel"
-    }]
+    ]
   }, {
     "id": 70,
     "num": "070",
@@ -1446,15 +1047,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "069",
-      "name": "Bellsprout"
-    }],
-    "next_evolution": [{
-      "num": "071",
-      "name": "Victreebel"
-    }]
+    ]
   }, {
     "id": 71,
     "num": "071",
@@ -1471,14 +1064,7 @@
       "Ice",
       "Flying",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "069",
-      "name": "Bellsprout"
-    }, {
-      "num": "070",
-      "name": "Weepinbell"
-    }]
+    ]
   }, {
     "id": 72,
     "num": "072",
@@ -1494,11 +1080,7 @@
       "Electric",
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "073",
-      "name": "Tentacruel"
-    }]
+    ]
   }, {
     "id": 73,
     "num": "073",
@@ -1514,11 +1096,7 @@
       "Electric",
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "072",
-      "name": "Tentacool"
-    }]
+    ]
   }, {
     "id": 74,
     "num": "074",
@@ -1537,14 +1115,7 @@
       "Fighting",
       "Ground",
       "Steel"
-    ],
-    "next_evolution": [{
-      "num": "075",
-      "name": "Graveler"
-    }, {
-      "num": "076",
-      "name": "Golem"
-    }]
+    ]
   }, {
     "id": 75,
     "num": "075",
@@ -1563,15 +1134,7 @@
       "Fighting",
       "Ground",
       "Steel"
-    ],
-    "prev_evolution": [{
-      "num": "074",
-      "name": "Geodude"
-    }],
-    "next_evolution": [{
-      "num": "076",
-      "name": "Golem"
-    }]
+    ]
   }, {
     "id": 76,
     "num": "076",
@@ -1590,14 +1153,7 @@
       "Fighting",
       "Ground",
       "Steel"
-    ],
-    "prev_evolution": [{
-      "num": "074",
-      "name": "Geodude"
-    }, {
-      "num": "075",
-      "name": "Graveler"
-    }]
+    ]
   }, {
     "id": 77,
     "num": "077",
@@ -1612,11 +1168,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "078",
-      "name": "Rapidash"
-    }]
+    ]
   }, {
     "id": 78,
     "num": "078",
@@ -1631,11 +1183,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "077",
-      "name": "Ponyta"
-    }]
+    ]
   }, {
     "id": 79,
     "num": "079",
@@ -1653,11 +1201,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "next_evolution": [{
-      "num": "080",
-      "name": "Slowbro"
-    }]
+    ]
   }, {
     "id": 80,
     "num": "080",
@@ -1675,11 +1219,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "079",
-      "name": "Slowpoke"
-    }]
+    ]
   }, {
     "id": 81,
     "num": "081",
@@ -1694,11 +1234,7 @@
       "Fire",
       "Water",
       "Ground"
-    ],
-    "next_evolution": [{
-      "num": "082",
-      "name": "Magneton"
-    }]
+    ]
   }, {
     "id": 82,
     "num": "082",
@@ -1713,11 +1249,7 @@
       "Fire",
       "Water",
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "081",
-      "name": "Magnemite"
-    }]
+    ]
   }, {
     "id": 83,
     "num": "083",
@@ -1747,11 +1279,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "next_evolution": [{
-      "num": "085",
-      "name": "Dodrio"
-    }]
+    ]
   }, {
     "id": 85,
     "num": "085",
@@ -1766,11 +1294,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "084",
-      "name": "Doduo"
-    }]
+    ]
   }, {
     "id": 86,
     "num": "086",
@@ -1784,11 +1308,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "087",
-      "name": "Dewgong"
-    }]
+    ]
   }, {
     "id": 87,
     "num": "087",
@@ -1805,11 +1325,7 @@
       "Grass",
       "Fighting",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "086",
-      "name": "Seel"
-    }]
+    ]
   }, {
     "id": 88,
     "num": "088",
@@ -1823,11 +1339,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "089",
-      "name": "Muk"
-    }]
+    ]
   }, {
     "id": 89,
     "num": "089",
@@ -1841,11 +1353,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "088",
-      "name": "Grimer"
-    }]
+    ]
   }, {
     "id": 90,
     "num": "090",
@@ -1859,11 +1367,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "091",
-      "name": "Cloyster"
-    }]
+    ]
   }, {
     "id": 91,
     "num": "091",
@@ -1880,11 +1384,7 @@
       "Grass",
       "Fighting",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "090",
-      "name": "Shellder"
-    }]
+    ]
   }, {
     "id": 92,
     "num": "092",
@@ -1901,14 +1401,7 @@
       "Psychic",
       "Ghost",
       "Dark"
-    ],
-    "next_evolution": [{
-      "num": "093",
-      "name": "Haunter"
-    }, {
-      "num": "094",
-      "name": "Gengar"
-    }]
+    ]
   }, {
     "id": 93,
     "num": "093",
@@ -1925,15 +1418,7 @@
       "Psychic",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "092",
-      "name": "Gastly"
-    }],
-    "next_evolution": [{
-      "num": "094",
-      "name": "Gengar"
-    }]
+    ]
   }, {
     "id": 94,
     "num": "094",
@@ -1950,14 +1435,7 @@
       "Psychic",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "092",
-      "name": "Gastly"
-    }, {
-      "num": "093",
-      "name": "Haunter"
-    }]
+    ]
   }, {
     "id": 95,
     "num": "095",
@@ -1991,11 +1469,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "next_evolution": [{
-      "num": "097",
-      "name": "Hypno"
-    }]
+    ]
   }, {
     "id": 97,
     "num": "097",
@@ -2010,11 +1484,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "096",
-      "name": "Drowzee"
-    }]
+    ]
   }, {
     "id": 98,
     "num": "098",
@@ -2028,11 +1498,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "099",
-      "name": "Kingler"
-    }]
+    ]
   }, {
     "id": 99,
     "num": "099",
@@ -2046,11 +1512,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "098",
-      "name": "Krabby"
-    }]
+    ]
   }, {
     "id": 100,
     "num": "100",
@@ -2063,11 +1525,7 @@
     "weight": "10.4 kg",
     "weaknesses": [
       "Ground"
-    ],
-    "next_evolution": [{
-      "num": "101",
-      "name": "Electrode"
-    }]
+    ]
   }, {
     "id": 101,
     "num": "101",
@@ -2080,11 +1538,7 @@
     "weight": "66.6 kg",
     "weaknesses": [
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "100",
-      "name": "Voltorb"
-    }]
+    ]
   }, {
     "id": 102,
     "num": "102",
@@ -2104,11 +1558,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "next_evolution": [{
-      "num": "103",
-      "name": "Exeggutor"
-    }]
+    ]
   }, {
     "id": 103,
     "num": "103",
@@ -2128,11 +1578,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "102",
-      "name": "Exeggcute"
-    }]
+    ]
   }, {
     "id": 104,
     "num": "104",
@@ -2147,11 +1593,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "next_evolution": [{
-      "num": "105",
-      "name": "Marowak"
-    }]
+    ]
   }, {
     "id": 105,
     "num": "105",
@@ -2166,11 +1608,7 @@
       "Water",
       "Grass",
       "Ice"
-    ],
-    "prev_evolution": [{
-      "num": "104",
-      "name": "Cubone"
-    }]
+    ]
   }, {
     "id": 106,
     "num": "106",
@@ -2227,11 +1665,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "next_evolution": [{
-      "num": "110",
-      "name": "Weezing"
-    }]
+    ]
   }, {
     "id": 110,
     "num": "110",
@@ -2245,11 +1679,7 @@
     "weaknesses": [
       "Ground",
       "Psychic"
-    ],
-    "prev_evolution": [{
-      "num": "109",
-      "name": "Koffing"
-    }]
+    ]
   }, {
     "id": 111,
     "num": "111",
@@ -2268,11 +1698,7 @@
       "Fighting",
       "Ground",
       "Steel"
-    ],
-    "next_evolution": [{
-      "num": "112",
-      "name": "Rhydon"
-    }]
+    ]
   }, {
     "id": 112,
     "num": "112",
@@ -2291,11 +1717,7 @@
       "Fighting",
       "Ground",
       "Steel"
-    ],
-    "prev_evolution": [{
-      "num": "111",
-      "name": "Rhyhorn"
-    }]
+    ]
   }, {
     "id": 113,
     "num": "113",
@@ -2352,11 +1774,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "117",
-      "name": "Seadra"
-    }]
+    ]
   }, {
     "id": 117,
     "num": "117",
@@ -2370,11 +1788,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "116",
-      "name": "Horsea"
-    }]
+    ]
   }, {
     "id": 118,
     "num": "118",
@@ -2388,11 +1802,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "119",
-      "name": "Seaking"
-    }]
+    ]
   }, {
     "id": 119,
     "num": "119",
@@ -2406,11 +1816,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "118",
-      "name": "Goldeen"
-    }]
+    ]
   }, {
     "id": 120,
     "num": "120",
@@ -2424,11 +1830,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "121",
-      "name": "Starmie"
-    }]
+    ]
   }, {
     "id": 121,
     "num": "121",
@@ -2446,11 +1848,7 @@
       "Bug",
       "Ghost",
       "Dark"
-    ],
-    "prev_evolution": [{
-      "num": "120",
-      "name": "Staryu"
-    }]
+    ]
   }, {
     "id": 122,
     "num": "122",
@@ -2572,11 +1970,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "next_evolution": [{
-      "num": "130",
-      "name": "Gyarados"
-    }]
+    ]
   }, {
     "id": 130,
     "num": "130",
@@ -2591,11 +1985,7 @@
     "weaknesses": [
       "Electric",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "129",
-      "name": "Magikarp"
-    }]
+    ]
   }, {
     "id": 131,
     "num": "131",
@@ -2638,17 +2028,7 @@
     "weight": "6.5 kg",
     "weaknesses": [
       "Fighting"
-    ],
-    "next_evolution": [{
-      "num": "134",
-      "name": "Vaporeon"
-    }, {
-      "num": "135",
-      "name": "Jolteon"
-    }, {
-      "num": "136",
-      "name": "Flareon"
-    }]
+    ]
   }, {
     "id": 134,
     "num": "134",
@@ -2662,11 +2042,7 @@
     "weaknesses": [
       "Electric",
       "Grass"
-    ],
-    "prev_evolution": [{
-      "num": "133",
-      "name": "Eevee"
-    }]
+    ]
   }, {
     "id": 135,
     "num": "135",
@@ -2679,11 +2055,7 @@
     "weight": "24.5 kg",
     "weaknesses": [
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "133",
-      "name": "Eevee"
-    }]
+    ]
   }, {
     "id": 136,
     "num": "136",
@@ -2698,11 +2070,7 @@
       "Water",
       "Ground",
       "Rock"
-    ],
-    "prev_evolution": [{
-      "num": "133",
-      "name": "Eevee"
-    }]
+    ]
   }, {
     "id": 137,
     "num": "137",
@@ -2732,11 +2100,7 @@
       "Grass",
       "Fighting",
       "Ground"
-    ],
-    "next_evolution": [{
-      "num": "139",
-      "name": "Omastar"
-    }]
+    ]
   }, {
     "id": 139,
     "num": "139",
@@ -2753,11 +2117,7 @@
       "Grass",
       "Fighting",
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "138",
-      "name": "Omanyte"
-    }]
+    ]
   }, {
     "id": 140,
     "num": "140",
@@ -2774,11 +2134,7 @@
       "Grass",
       "Fighting",
       "Ground"
-    ],
-    "next_evolution": [{
-      "num": "141",
-      "name": "Kabutops"
-    }]
+    ]
   }, {
     "id": 141,
     "num": "141",
@@ -2795,11 +2151,7 @@
       "Grass",
       "Fighting",
       "Ground"
-    ],
-    "prev_evolution": [{
-      "num": "140",
-      "name": "Kabuto"
-    }]
+    ]
   }, {
     "id": 142,
     "num": "142",
@@ -2893,14 +2245,7 @@
       "Ice",
       "Dragon",
       "Fairy"
-    ],
-    "next_evolution": [{
-      "num": "148",
-      "name": "Dragonair"
-    }, {
-      "num": "149",
-      "name": "Dragonite"
-    }]
+    ]
   }, {
     "id": 148,
     "num": "148",
@@ -2915,15 +2260,7 @@
       "Ice",
       "Dragon",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "147",
-      "name": "Dratini"
-    }],
-    "next_evolution": [{
-      "num": "149",
-      "name": "Dragonite"
-    }]
+    ]
   }, {
     "id": 149,
     "num": "149",
@@ -2940,14 +2277,7 @@
       "Rock",
       "Dragon",
       "Fairy"
-    ],
-    "prev_evolution": [{
-      "num": "147",
-      "name": "Dratini"
-    }, {
-      "num": "148",
-      "name": "Dragonair"
-    }]
+    ]
   }, {
     "id": 150,
     "num": "150",
